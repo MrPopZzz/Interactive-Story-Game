@@ -1,6 +1,6 @@
-# Interactive Story - The Enchanted Forest
+# Interactive Story Game
 
-Welcome to the **Interactive Story** project! This is a simple text-based adventure game where users can make choices that affect the story's outcome. The story begins with a traveler at the edge of an enchanted forest, and the player can decide the path they want to take. Their choices will lead them down different paths, each with unique outcomes.
+Welcome to the **Interactive Story** game project! This is a simple text-based adventure game where users can make choices that affect the story's outcome. The story begins with a traveler at the edge of an enchanted forest, and the player can decide the path they want to take. Their choices will lead them down different paths, each with unique outcomes.
 
 ## Features
 
